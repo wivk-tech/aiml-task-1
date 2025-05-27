@@ -20,7 +20,7 @@ This task was part of an AI & ML Internship. The goal was to clean and preproces
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## Author
-**Vishwajeet Kumar**
-BS in Data Science and Applications @ IIT Madras
+### Author
+**Vishwajeet Kumar**  
+BS in Data Science and Applications @ IIT Madras  
 BTech CSE @ LNJPIT Chapra, BEU Patna
