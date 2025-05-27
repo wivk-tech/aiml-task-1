@@ -22,3 +22,5 @@ This task was part of an AI & ML Internship. The goal was to clean and preproces
 
 ## Author
 Vishwajeet Kumar
+BS in Data Science and Applications @ IIT Madras
+BTech CSE @ LNJPIT Chapra, BEU Patna
