@@ -21,7 +21,7 @@ This task was part of an AI & ML Internship. The goal was to clean and preproces
 - Scikit-learn
 
 ## Submission
-Submitted as part of the AI & ML Internship - Task 3.
+Submitted as part of the AI & ML Internship - Task 1.
 
 ---
 
